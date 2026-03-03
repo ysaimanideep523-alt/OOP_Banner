@@ -8,7 +8,5 @@ public class BannerApp{
 	    System.out.println(" **   ** " + "  " + " **   ** " + "  " + "**     " + "  " + "**   **");
 	    System.out.println("   ***   " + "  " + "   ***   " + "  " + "**     " + "  " + " *****");
 	   }
-}   
-	   
-		 
+}    
 	
